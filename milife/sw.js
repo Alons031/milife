@@ -1,5 +1,5 @@
 // Si cambias algo de la app, sube el número de versión para que se actualice.
-const VERSION = 'diario-v3';
+const VERSION = 'diario-v12';
 const ARCHIVOS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
